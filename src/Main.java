@@ -1,6 +1,7 @@
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {
+        Different.selam();
         System.out.println("ATATÜRK Havalimanına hosgeldiniz***** ");
         String sartlar="Yurtdisina cikis kuralları... \n"
                 + "1- Herhangi bir siyasi yasaginizin bulunmaması gerekmektedir. \n"
